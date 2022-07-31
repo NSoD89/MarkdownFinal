@@ -53,6 +53,8 @@ ___
 Команды Git'а
 git config init.defaultBranch - Отображение ветки
 
+git log --oneline - Вывод логов в строку
+
 git config --global init.defaultBranch master - Сделать ветку мастер дефолтной
 
 git config --list - Дефолтные настройки Git'a
