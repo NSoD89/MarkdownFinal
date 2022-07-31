@@ -59,4 +59,6 @@ git config --global init.defaultBranch master - Сделать ветку мас
 
 git config --list - Дефолтные настройки Git'a
 
+.gitignore - файл для указания игнорируемых файлов
 
+git branch -d имя ветки - Удаление ветки
